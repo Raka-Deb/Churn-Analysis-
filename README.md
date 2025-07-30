@@ -172,5 +172,3 @@ The Power BI dashboard was designed to present insights clearly and interactivel
 
 ## Conclusion
 This telecom churn analysis provides a robust foundation for understanding customer behavior and reducing churn rates. By leveraging Power BI for EDA and visualization, key insights were derived regarding senior citizens, payment methods, and gender-based patterns. The dashboard offers an intuitive, website-like interface for stakeholders to explore these findings. Future efforts should focus on live data integration, predictive modeling, and tailored retention strategies to achieve a target churn reduction from 10% to 5-6%.
-
-For the complete dashboard, refer to the GitHub repository: [github.com/pick1989](https://github.com/pick1989).
