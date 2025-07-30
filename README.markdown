@@ -3,6 +3,12 @@
 ## Project Overview
 This report summarizes the findings from a comprehensive churn analysis conducted using Power BI on a telecom dataset. The primary objective was to understand customer churn behavior, identify key patterns, and provide actionable insights to reduce churn rates. Churn, in this context, refers to customers leaving the telecom provider for competitors (e.g., switching from Vodafone to Airtel due to better offers) or reducing their engagement (e.g., switching from postpaid to prepaid plans). The analysis encompasses business problem understanding, exploratory data analysis (EDA), data cleaning, and dashboard creation to visualize critical insights.
 
+
+![image alt](https://github.com/Raka-Deb/Churn-Analysis-/blob/c725e10c043bdb76b9344a90a316d6f9efb0d27e/telecom%20churn.png)
+
+
+
+
 The dataset used is a clean telecom churn dataset, designed for classification tasks with a binary churn indicator (churn vs. non-churn). The analysis focuses on both the overall customer population and the churned subset to uncover distinct characteristics and drivers of churn.
 
 ## Business Problem
